@@ -37,7 +37,7 @@ Make sure you have the following installed:
 git clone https://github.com/RiveraAngeldev/Zelda-clon.git
 cd Zelda-clon
 
-##🧪 Debugging in VS Code
+🧪 Debugging in VS Code
 If you're using Visual Studio Code:
 Open the project folder (Zelda-clon) in VS Code.
 Go to the Run and Debug tab (left sidebar).
