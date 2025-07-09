@@ -42,6 +42,6 @@ If you're using Visual Studio Code:
 Open the project folder (Zelda-clon) in VS Code.
 Go to the Run and Debug tab (left sidebar).
 Select your operating system
-Press Play
 Press ▶️ Play to compile and run the game.
+
 Make sure you have the C/C++ Extension Pack installed from Microsoft.
